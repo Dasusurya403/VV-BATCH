@@ -1,3 +1,4 @@
+# this is small changes that held in this repo
 import java.util.Scanner;
 
 class CheckEvenOdd
