@@ -1,4 +1,5 @@
 # this is small changes that held in this repo
+# it is about the adding the file 
 import java.util.Scanner;
 
 class CheckEvenOdd
